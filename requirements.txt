@@ -5,3 +5,6 @@ requests
 yt-dlp
 faster-whisper
 opencv-python-headless
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
