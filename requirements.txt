@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+yt-dlp
+faster-whisper
+opencv-python-headless

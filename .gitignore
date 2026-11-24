@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+cache/
+exports/
+fonts/
+music/*
+!music/.gitkeep
+sfx/*
+!sfx/.gitkeep
+.env
+client_secrets.json
+token.json
